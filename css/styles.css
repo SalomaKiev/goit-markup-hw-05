@@ -696,7 +696,7 @@ li {
   }
 
   .comment-container {
-    margin-bottom: 24px;
+    margin-bottom: 16px;
   }
 
   .textarea-comment {
@@ -717,6 +717,10 @@ li {
   }
   .textarea-comment:focus {
     border-color: #4d5ae5;
+  }
+
+  .checkbox-container {
+    margin-bottom: 24px;
   }
 
   .visually-hidden {
